@@ -6,13 +6,13 @@
  *
  */
 export const config = {
-  apiKey: 'AIzaSyCu54O8wC0t1pOEd6LiOygZhH3a4iLwHWc',
-  appId: '1:881470878218:web:e06c18289175de87db25f3',
-  authDomain: 'bmi-c254e.firebaseapp.com',
-  measurementId: 'G-6R0NVJTBVS',
-  messagingSenderId: '881470878218',
-  projectId: 'bmi-c254e',
-  storageBucket: 'bmi-c254e.firebasestorage.app',
+  apiKey: 'AIzaSyDua1ypGXzZiIu-JnE-yhu1EXvZzx4kc4Q',
+  authDomain: 'atdt-ad1c7.firebaseapp.com',
+  databaseURL: 'https://atdt-ad1c7-default-rtdb.firebaseio.com',
+  projectId: 'atdt-ad1c7',
+  storageBucket: 'atdt-ad1c7.appspot.com',
+  messagingSenderId: '1006802105238',
+  appId: '1:1006802105238:web:816903f79733474fa7e3b7',
 };
 
 export const FIRESTORE_COLLECTIONS = {
