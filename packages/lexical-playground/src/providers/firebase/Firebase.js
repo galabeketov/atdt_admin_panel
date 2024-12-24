@@ -52,7 +52,10 @@ class Firebase {
     this.firestore = initializeFirestore(this.app, {
       experimentalAutoDetectLongPolling: true,
     });
-    this.signIn({email: 'admin@tuit.uz', password: '123456'});
+    this.signIn({
+      email: 'beketovgalimjan0@gmail.com',
+      password: 'galimjan1218',
+    });
   }
 
   subscribeAuthStateChange = (nextOrObserver) => {
